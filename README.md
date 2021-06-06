@@ -1,4 +1,4 @@
-# COVID-19-Detection-from-Lung-CT-Scan-Images-using-Transfer-Learning-Approach
+# COVID-19 Detection from Lung CT-Scan Images using Transfer Learning Approach
 <a href="https://doi.org/10.1088/2632-2153/abf22c"><img src="https://img.shields.io/badge/IOP%20Science-Publisher-blue"/></a>
 <a href="https://iopscience.iop.org/article/10.1088/2632-2153/abf22c"/><img src="https://img.shields.io/badge/DOI-10.1088%2F2632--2153%2Fabf22c-blue"/></a>
 <a href="https://creativecommons.org/licenses/by/3.0/"/><img src="https://img.shields.io/badge/License-CC%20BY%203.0-lightgrey"/></a>
